@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="https://github.com/pandeyanup/flutter_chuckapi/releases/latest"><img src="https://img.shields.io/github/release/pandeyanup/flutter_chuckapi.svg?maxAge=3600&style=for-the-badge&label=download"/></a></p>
+<a href="https://github.com/pandeyanup/flutter_chuckapi/releases/latest"><img src="https://img.shields.io/github/release/pandeyanup/flutter-chuckapi.svg?maxAge=3600&style=for-the-badge&label=download"/></a></p>
 
 ## About this App
 
